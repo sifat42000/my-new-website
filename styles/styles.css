@@ -1,0 +1,233 @@
+.sifat{
+    display: flex;
+    width: 525px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: var(--dark-01, #151414);
+text-align: right;
+font-size: 65px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 10;
+
+}
+.sifat3{
+   
+color: var(--dark-02, #444343);
+text-align: right;
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+width: 55%;
+}
+.habla{
+    color: #FFF;
+text-align: right;
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+}
+.nishat{
+    width: 1600px;
+height: 809px;
+flex-shrink: 0;
+color: ;
+background-image: url(../images/banner/banner2.png);
+
+}
+.lion{
+    float: right;
+    
+    width: 59%;-
+}
+.loton{
+    width: 160px;
+height: 64px;
+flex-shrink: 0;
+background: #F15B22;
+height: 40px;
+text-align: left;
+border-radius: 5px;
+width: 10%;
+}
+.style{
+    color: var(--dark-01, #151414);
+font-family: Work Sans;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.h3b{
+    display: flex;
+width: 288px;
+flex-direction: column;
+flex-shrink: 0;
+}
+.style2{
+    color: var(--dark-02, #444343);
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+.pb{
+    display: flex;
+width: 416px;
+flex-direction: column;
+flex-shrink: 0;
+}
+.tiba1{
+    color: var(--dark-02, #444343);
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+.tiba2{
+    color: var(--dark-02, #444343);
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+.tiba3{
+    color: var(--dark-02, #444343);
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+.tiba4{
+    color: var(--dark-02, #444343);
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+.tiba5{
+    color: var(--dark-02, #444343);
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+.all{
+    width: 1600px;
+height: 400px;
+float: right;
+width: 40%;
+margin-top: 2px;
+
+
+}
+.ib{
+    width: 527.929px;
+height: 527.929px;
+background-image: url(../images/banner/banner2.png);
+border-radius: 527.929px;
+background: rgba(241, 91, 34, 0.20);
+
+}
+.new{
+    display: flex;
+    width: 85%;
+    float: right;
+}
+.pics{
+    float: left;
+    width: 57%;
+}
+.plans{
+    color: var(--dark-01, #151414);
+font-family: Work Sans;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.plans{
+    text-align: center;
+}
+.bablu1{
+    color: var(--dark-01, #151414);
+text-align: center;
+font-family: Work Sans;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.bablu2{
+    color: var(--dark-03, #737272);
+text-align: center;
+font-family: Work Sans;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.begom{
+    display: flex;
+    padding: 30px;
+    gap: 36px;
+    float: right;
+    width: 81%;
+}
+.surma{
+    background-image: url(../images/watch.png);
+    width: 800px;
+height: 186px;
+flex-shrink: 0;
+border-radius: 8px;
+background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%);
+background-position: center;
+float: right;
+width: 84%;
+}
+.labib{
+    color: #F15B22;
+text-align: center;
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.rifat{
+    width: 160px;
+height: 64px;
+flex-shrink: 0;
+
+}
+.sindid{
+    display: flex;
+width: 459px;
+flex-direction: column;
+flex-shrink: 0;
+}
+.rifat2{
+    color: #FFF;
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.surma3{
+    float: right;
+    width: 97%;
+}
+ 
